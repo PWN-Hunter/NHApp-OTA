@@ -1,4 +1,7 @@
- {
- "version_code": 1.6.3,
- "content": "Version 2.0 <p>New features:</p><li>Added feature A</li><li>Added feature B</li><li>Added feature C</li><li>Added feature D</li><li>Added feature E</li><li>Added feature F</li><li>Added feature G</li>"
- }
+{
+	"version_code": 2,
+	"chroot_version": 1,
+	"chroot_sha512_full": "68a3c557e14ec301fd37831793485c2280b9f706975cff3f9f9cf4000c9703b27dd21b5e076bded0ceff6e5652efc225b0dc76aa391ac5a7e90d683e3b43b647",
+	"chroot_sha512_min": "86752fba98b54daf5f66d04b1306ebebb25ea434bd5f17aa53b53c75aef6e9309084e0e6c01b94461dcb5615e4dd9eb97ac1d8973ebadcd1f6962b99312ae7e5",
+	"content": "Version 3.15 <p>Please uninstall previous version before installing this one</P><p>Fixes</P><li>Wardriving tab removed until TCP server is added</li><li>Fix custom command not working sometimes</li><li>Karma fixes to match configuration file</li><li>Fruitywifi PHP start use correct version</li>"
+}
